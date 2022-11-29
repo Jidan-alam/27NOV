@@ -1,0 +1,42 @@
+body{
+    /* background-image:url(pictures/project.png); */
+    background-color: rgb(147, 197, 180);
+    background-size:100% 100%;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(96, 2, 2);
+    text-align: center;
+}
+img{
+    height:300px;
+    width:auto;
+}
+table, th, td{
+   border: 2px solid rgb(169, 40, 40);
+   border-collapse: collapse;
+   padding: 5px;
+   text-align: center;
+}
+button{
+    padding: 10px;
+    font-weight: 800;
+    font-size: 2em;
+    border-radius: 15px;
+    background-color: aqua;
+    border: 3px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.ok{
+    display:inline;
+    padding: 10px;
+        font-size: 2em;
+        border-radius: 15px;
+        background-color: aqua;
+        border: 3px solid black;
+        
+}
